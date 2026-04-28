@@ -1,2 +1,29 @@
-# remote-ops-playbooks
-Operational playbooks and SOPs for remote coordination and executive support.
+# Remote Operations Playbooks
+
+Examples of operating systems and SOPs for distributed teams.
+
+## Included Playbooks
+
+### Executive Support Operating Rhythm
+Weekly cadence covering:
+- Priority reviews
+- Calendar hygiene
+- Stakeholder follow-up tracking
+- Meeting prep workflows
+
+---
+
+### Stakeholder Communications SOP
+Framework for:
+- Escalation paths
+- Response standards
+- Follow-through tracking
+
+---
+
+### Process Improvement Framework
+Simple approach I’ve used to:
+1. Identify friction
+2. Map breakdowns
+3. Improve workflows
+4. Measure adoption
