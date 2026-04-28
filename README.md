@@ -33,3 +33,9 @@ Framework for routing urgent issues:
 - Immediate response items
 - Leadership escalation triggers
 - Follow-up ownership tracking
+
+## Async Collaboration Practices
+Approaches for distributed teams:
+- Clear handoffs
+- Decision documentation
+- Status update rhythms
