@@ -27,3 +27,9 @@ Simple approach I’ve used to:
 2. Map breakdowns
 3. Improve workflows
 4. Measure adoption
+
+## Escalation Paths
+Framework for routing urgent issues:
+- Immediate response items
+- Leadership escalation triggers
+- Follow-up ownership tracking
