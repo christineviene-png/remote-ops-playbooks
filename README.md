@@ -1,6 +1,6 @@
 # Remote Operations Playbooks
 
-Examples of operating systems and SOPs for distributed teams.
+Operational playbooks and SOPs for remote coordination, executive support, and team execution.
 
 ## Included Playbooks
 
